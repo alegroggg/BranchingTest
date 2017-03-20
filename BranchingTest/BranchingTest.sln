@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingTest", "BranchingT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DupaProject", "DupaProject\DupaProject.csproj", "{68FA8D37-0DE1-496D-A900-2D70C480517D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{E0A41B74-CBC5-4139-A0ED-A9ADF80B1650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{68FA8D37-0DE1-496D-A900-2D70C480517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68FA8D37-0DE1-496D-A900-2D70C480517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68FA8D37-0DE1-496D-A900-2D70C480517D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A41B74-CBC5-4139-A0ED-A9ADF80B1650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A41B74-CBC5-4139-A0ED-A9ADF80B1650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A41B74-CBC5-4139-A0ED-A9ADF80B1650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A41B74-CBC5-4139-A0ED-A9ADF80B1650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
